@@ -1,0 +1,9 @@
+Missing Values in Training Data:
+Age         177
+Cabin       687
+Embarked      2
+
+Missing Values in Test Data:
+Age       86
+Fare       1
+Cabin    327
